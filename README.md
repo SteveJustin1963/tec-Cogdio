@@ -1,4 +1,4 @@
-# tec-Cogdio
+# tec-Cogni-io
 
 Tec1 controlled cognitive radio links to form mental mesh links between multiple humans. In the same room use wire hook up.
 
