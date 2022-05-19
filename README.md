@@ -6,3 +6,10 @@ The consequences of forming mental mesh links between multiple humans as a share
 
 If and when a link is made to another persons mind hyper-cognition (...the power to perform complex mental operations drastically beyond what is naturally possible) may occur, a collective growing experience of cognition. Its more about higher thought, to reason deeply and logically, problem solving and making judgments about information may execute on a higher plane and regulate ones own cognitive activity.
 
+There was a sci-fi movie called Brainstorm (1983) where scientists invent a brain–computer interface enabling sensations and emotional feelings to be recorded from a person's brain and converted to tape for others to experience with often serious and dangerous effects. https://en.wikipedia.org/wiki/Brainstorm_(1983_film)
+
+
+### Iterate
+
+### Ref
+
