@@ -9,7 +9,31 @@ If and when a link is made to another persons mind hyper-cognition (...the power
 There was a sci-fi movie called Brainstorm (1983) where scientists invent a brain–computer interface enabling sensations and emotional feelings to be recorded from a person's brain and converted to tape for others to experience with often serious and dangerous effects. https://en.wikipedia.org/wiki/Brainstorm_(1983_film)
 
 
-### Iterate
 
-### Ref
+Lab Plan:
+
+Objective:
+
+To build upon the existing tec-LACE project and develop a controlled mental link system to form mental bridges or meshes between multiple humans, over radio or point-to-point connection.
+Methods:
+
+Utilize cognitive radio technology to manage interference between multiple links and optimize the use of the available spectrum.
+Develop a system that can identify the best frequency for each link and switch between frequencies as needed to maintain link quality.
+Conduct experiments to test the feasibility of forming mental mesh links between multiple humans and measure the effects on communication and cognitive abilities.
+Monitor for any potential negative consequences and implement measures to mitigate them.
+Expected Results:
+
+Successful development of a controlled mental link system that allows for communication and shared consciousness between multiple individuals.
+Improved communication and potential enhancement of cognitive abilities through the formation of mental mesh links.
+Identification of any potential negative consequences and development of measures to mitigate them.
+Risks:
+
+The consequences of forming mental mesh links between multiple humans as a shared conscience are not fully known and may have negative effects.
+The technology may not be feasible and may not work as expected.
+Note: it is important to consider ethical and legal implications of this technology before proceeding with any experimentation on human subjects.
+
+## Iterate
+
+## Ref
+
 
