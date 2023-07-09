@@ -1,6 +1,6 @@
 # tec-LACE-LINK
 
-Builds on the https://github.com/SteveJustin1963/tec-LACE project to create controlled mental links to form mental bridges or meshes between multiple humans, over radio or point to point hook up.
+Builds on the https://github.com/SteveJustin1963/tec-EEG project to create controlled mental links to form mental bridges or meshes between multiple humans, over radio or point to point hook up.
 
 The consequences of forming mental mesh links between multiple humans as a shared conscience are not fully known. However, it is possible that this could lead to a more efficient use of the available spectrum and to improved communication between humans. Its like building telepathy, but it is not clear how this the details work. It is possible that telepathy could be used to communicate thoughts or ideas between humans. Cognitive radio links are links between multiple humans that are controlled by a cognitive radio system. This system is designed to manage the interference between multiple links and to optimize the use of the available spectrum. The cognitive radio system is able to identify the best frequency for each link and to switch between frequencies as needed to maintain the link quality.
 
